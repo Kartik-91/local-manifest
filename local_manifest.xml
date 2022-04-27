@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/xiaomi/ares" name="Tkpointz/android_device_xiaomi_ares" remote="github" revision="SC-V2" />
-  <project path="vendor/xiaomi/ares" name="Tkpointz/proprietary_vendor_xiaomi" remote="github" revision="SC-V2" />
+  <project path="device/xiaomi/ares" name="Tkpointz/android_device_xiaomi_ares-test" remote="github" revision="12-test" />
+  <project path="vendor/xiaomi/ares" name="Tkpointz/proprietary_vendor_xiaomi_ares-test" remote="github" revision="SC-V2" />
   <project path="kernel/xiaomi/mt6893" name="Tkpointz/android_kernel_aresin" remote="github" revision="S2" />
   
 </manifest>
