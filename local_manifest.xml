@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/xiaomi/pissarro" name="Kartik-91/device_xiaomi_pissarro" remote="github" revision="aex9" />
-  <project path="vendor/xiaomi/pissarro" name="Kartik-91/vendor_xiaomi_pissarro" remote="github" revision="lineage-18.1" />
+  <project path="device/xiaomi/pissarro" name="Kartik-91/pissarro_generated" remote="github" revision="lineage-19.1" />
+  <project path="vendor/xiaomi/pissarro" name="Kartik-91/vendor_generated" remote="github" revision="lineage-19.1" />
   
 </manifest>
